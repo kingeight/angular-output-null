@@ -1,0 +1,2 @@
+# angular-output-null
+一个angular指令，当输出项为空时用N/A代理
